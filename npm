@@ -1,3 +1,0 @@
-mkdir game-hub
-cd game-hub
-npm init -y
